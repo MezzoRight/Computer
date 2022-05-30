@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "349047525788",
+    "firebase_url": "https://computerworld-99d18-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "computerworld-99d18",
+    "storage_bucket": "computerworld-99d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349047525788:android:4355a770bb12f8723d7859",
+        "android_client_info": {
+          "package_name": "com.example.computer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349047525788-r95s45n7a3khsh6f7lmud44u0q2984g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSw5q8xg-ZpWDM87Uezli7XqXIy9nJus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349047525788-r95s45n7a3khsh6f7lmud44u0q2984g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349047525788:android:b2379f00562b01bc3d7859",
+        "android_client_info": {
+          "package_name": "com.example.computerworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349047525788-r95s45n7a3khsh6f7lmud44u0q2984g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSw5q8xg-ZpWDM87Uezli7XqXIy9nJus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349047525788-r95s45n7a3khsh6f7lmud44u0q2984g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349047525788:android:f2d4a0ab36333b1a3d7859",
+        "android_client_info": {
+          "package_name": "com.example.world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349047525788-r95s45n7a3khsh6f7lmud44u0q2984g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSw5q8xg-ZpWDM87Uezli7XqXIy9nJus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349047525788-r95s45n7a3khsh6f7lmud44u0q2984g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
